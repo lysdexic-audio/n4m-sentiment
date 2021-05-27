@@ -1,0 +1,12 @@
+{
+  "name": "n4m-sentiment",
+  "version": "0.0.0",
+  "description": "Peform sentiment analysis inside Max patcher using Node",
+  "main": "n4m-sentiment.js",
+  "author": "lysdexic // j. curtis ",
+  "license": "ISC",
+  "dependencies": {
+    "sentiment": "^5.0.2",
+    "deep-extend": ">=0.5.1"
+  }
+}
