@@ -25,7 +25,7 @@ Use the `script npm install` message the first time you run the patch
 # Example patch
 1. try the example sentences in the messages
 2. type your own
-3. check out the n4m-sentiment.js script
+3. check out the `n4m-sentiment.js` script
 
 
 
